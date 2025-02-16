@@ -3,12 +3,19 @@ A simple Python application using speech_recognition and tkinter to convert spee
 
 Speech-to-Text with GUI
 This project utilizes the python speech_recognition library to capture speech from the microphone and convert it into text. The recognized text is displayed in a user-friendly graphical interface created using tkinter.
+
 Features:
+
 Speech Recognition: Uses Google’s Speech API to convert speech to text.
+
 Graphical User Interface: Displays the recognized speech in a window with large font for easy readability.
+
 Microphone Selection: Choose the correct microphone from a list of available devices.
+
 Requirements:
+
 Python 3.x
+
 speech_recognition library
 tkinter
 How to Run:
