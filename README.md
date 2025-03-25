@@ -37,3 +37,6 @@ Troubleshooting:
 Ensure that your microphone is connected and properly configured.
 
 If you encounter issues with the microphone, try updating the DEVICE_INDEX based on the list of available devices printed when the program starts.
+
+
+![image](https://github.com/user-attachments/assets/55185501-23cb-4e00-b9fc-e16f7cc585c1)
